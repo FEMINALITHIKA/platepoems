@@ -1,0 +1,8 @@
+:root {
+  --border: 215 16% 47%;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
